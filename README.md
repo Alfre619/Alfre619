@@ -1,11 +1,15 @@
 # Hello, I'm Alfredo 👋
 
+## 👨‍💻 About Me
+- 🎓 Graduated with a degree in Biological Sciences from Universidad Michoacana de San Nicolás de Hidalgo.
+- 💼 Experienced in data handling and statistical.  analysis in the field of ecotoxicology and logistics.
+- 🌱 Currently enhancing my data analysis skills and programming in R and SQL.
+
 ## 🛠 Technical Skills
-- **Data Analysis & Statistics:** Proficient in SPSS, SAS, PAST, and R (dplyr, tidyr, ggplot2).
-- **Programming & Database Management:** Competent in MySQL, with basic knowledge in Python (Pandas, NumPy, Matplotlib).
-- **Software Development:** Initial experience with flutter.
-- **Productivity Tools:** Advanced use of Microsoft Office (Word, Excel, PowerPoint).
-- **Version Control:** Basic understanding of Git and GitHub.
+- **Data Analysis & Statistics:** Proficient with SPSS, SAS, PAST, and R, including packages like dplyr, tidyr, and ggplot2.
+- **Programming & Databases:** Skilled in MySQL, with a solid foundation in Python, utilizing libraries such as Pandas, NumPy, and Matplotlib.
+- **Software Development:** Initial experience with Flutter for app development, familiar with version control using Git and GitHub.
+- **Productivity Tools:** Advanced capabilities in Microsoft Office suite, especially Excel for data analysis and visualization.
   
 ## 🛠 Technologies & Tools
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
@@ -31,17 +35,11 @@
 - **Email:** [aq98vs619@gmail.com](mailto:aq98vs619@gmail.com)
 - **Phone:** +52 443 409 3186
 
-## 📚 Education
-- **Bachelor of Science in Biological Sciences,** Universidad Michoacana de San Nicolás de Hidalgo, 2021.
-
-## 🌟 Achievements and Contributions
-- Presented research findings at various state and national conferences.
-- Developed innovative criteria for the reproduction and care of Ambystoma species, improving survival rates.
-
   
 ## 📈 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight)
+![Alfre619's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfre619&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfre619&layout=compact&theme=radical)
 
 
 
