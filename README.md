@@ -31,7 +31,7 @@
   - Led research on aquatic species and designed feeding and ecotoxicology systems based on experimental data.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Alfredo Hinojosa González](www.linkedin.com/in/alfredo-hinojosa-gonzález)
+- **LinkedIn:** [Alfredo Hinojosa González](https://www.linkedin.com/in/alfredo-hinojosa-gonz%C3%A1lez)
 - **Email:** [alfredohinojosagonzalez98@gmail.com](mailto:alfredohinojosagonzalez98@gmail.com)
 - **Phone:** +52 443 409 3186
 
