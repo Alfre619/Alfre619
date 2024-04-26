@@ -32,7 +32,7 @@
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Alfredo Hinojosa González](https://linkedin.com/in/alfredo-hinojosa-gonzález-5205a4201)
-- **Email:** [aq98vs619@gmail.com](mailto:aq98vs619@gmail.com)
+- **Email:** [alfredohinojosagonzalez98@gmail.com](mailto:aq98vs619@gmail.com)
 - **Phone:** +52 443 409 3186
 
   
