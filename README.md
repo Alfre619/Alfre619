@@ -1,45 +1,82 @@
-# Hello, I'm Alfredo 👋
+# Hi, I'm Alfredo Hinojosa González 👋
+**Jr Data Analyst | Product Analytics | Software Developer (Flutter/Node/SQL)**  
+I turn messy data into decisions and build data-informed products.
+
+<p align="left">
+  <a href="https://alfredohg.com"><img src="https://img.shields.io/badge/Portfolio-alfredohg.com-0A66C2?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/alfredo-hinojosa-gonz%C3%A1lez"><img src="https://img.shields.io/badge/LinkedIn-Alfredo%20Hinojosa%20Gonz%C3%A1lez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alfredo@alfredohg.com"><img src="https://img.shields.io/badge/Email-alfredo%40alfredohg.com-111827?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Alfre619"><img src="https://img.shields.io/badge/GitHub-Alfre619-111827?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
-- 🎓 Graduated with a degree in Biological Sciences from Universidad Michoacana de San Nicolás de Hidalgo.
-- 💼 Experienced in data handling and statistical.  analysis in the field of ecotoxicology and logistics.
-- 🌱 Currently enhancing my data analysis skills and programming in R and SQL.
+- 🎓 B.Sc. in **Biological Sciences** (UMSNH).
+- 🧠 Currently studying a **Master’s in Data Science & Information (INFOTEC)**.
+- 📊 Experience in **data analysis & operations** (logistics + delivery workflows), building KPIs and dashboards for decision-making.
+- 🧪 Research background in **ecotoxicology** (experimental design, statistical analysis, scientific communication).
 
-## 🛠 Technical Skills
-- **Data Analysis & Statistics:** Proficient with SPSS, SAS, PAST, and R, including packages like dplyr, tidyr, and ggplot2.
-- **Programming & Databases:** Skilled in MySQL, with a solid foundation in Python, utilizing libraries such as Pandas, NumPy, and Matplotlib.
-- **Software Development:** Initial experience with Flutter for app development, familiar with version control using Git and GitHub.
-- **Productivity Tools:** Advanced capabilities in Microsoft Office suite, especially Excel for data analysis and visualization.
-  
+---
+
+## 🤖 Machine Learning Interest
+I’m especially interested in applying **Machine Learning** to real business problems:
+- **Supervised Learning:** regression, classification, feature engineering, model evaluation.
+- **Unsupervised Learning:** clustering, segmentation, dimensionality reduction (PCA), anomaly detection.
+- Focus on **interpretable models**, solid **metrics**, and **reproducible** workflows.
+
+---
+
+## 🌱 Currently Learning (Courses & Practice)
+- **Machine Learning fundamentals** (supervised & unsupervised)
+- **Statistics & probability** for data science
+- **SQL for analytics** (joins, window functions, data validation)
+- **Python for data** (Pandas + scikit-learn) and **R for analysis** (tidyverse)
+- **BI / Product Analytics** (KPI frameworks, funnels, cohorts)
+
+> I document progress and projects in my portfolio: **https://alfredohg.com**
+
+---
+
+## 🧰 Tech Stack
+**Data & Analytics**
+- SQL / MySQL, Excel (analysis & visualization)
+- Python (Pandas, NumPy, Matplotlib) + learning **scikit-learn**
+- R (dplyr, tidyr, ggplot2)
+- Looker Studio (dashboards)
+
+**Software**
+- Flutter/Dart, Node.js/Express (REST APIs)
+- Firebase (Analytics/FCM)
+- Git/GitHub, Linux
+
+---
+
 ## 🛠 Technologies & Tools
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![Sqflite](https://img.shields.io/badge/-Sqflite-02569B?style=flat-square&logo=sqlite)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00BFFF?style=flat-square&logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-111827?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 
+---
 
-## 📈 Professional Experience
-- **Devy - Logistics Operations Department** (July 2021 - March 2023)
-  - Specialized in data analysis to optimize logistics operations from production to customer delivery.
-- **Aquatic Ecotoxicology Laboratory** (March 2017 - January 2022)
-  - Led research on aquatic species and designed feeding and ecotoxicology systems based on experimental data.
+## 🚀 Featured Work
+- **Analytics + Dashboards** — KPI tracking, Ops/Product reporting (Looker Studio)
+- **Data Cleaning & Automation** — SQL checks + Python scripts for data structuring
+- **Flutter Apps + Firebase Analytics** — instrumentation and measurement
 
-## 📫 How to Reach Me
-- **LinkedIn:** [Alfredo Hinojosa González](https://www.linkedin.com/in/alfredo-hinojosa-gonz%C3%A1lez)
-- **Email:** [alfredohinojosagonzalez98@gmail.com](mailto:alfredohinojosagonzalez98@gmail.com)
-- **Phone:** +52 443 409 3186
+👉 More projects & case studies: **https://alfredohg.com**
 
-  
-## 📈 Mis estadísticas de GitHub
-![Alfre619's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfre619&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfre619&layout=compact&theme=radical)
-
-
-
+## 💼 Experience Snapshot
+- **Product/Data Analyst Jr & Software Developer — Zitech Solutions** (Mar 2024 – Present)  
+  KPIs, instrumentation, d
