@@ -79,4 +79,30 @@ I’m especially interested in applying **Machine Learning** to real business pr
 
 ## 💼 Experience Snapshot
 - **Product/Data Analyst Jr & Software Developer — Zitech Solutions** (Mar 2024 – Present)  
-  KPIs, instrumentation, d
+  KPIs, instrumentation, dashboards, SQL/MySQL analysis, and product iteration.
+- **Data Analyst — Devy (Delivery App)** (Jan 2021 – Feb 2023)  
+  End-to-end flow analysis, SLA monitoring, bottleneck detection, ops optimization.
+- **Scientific Research — Aquatic Ecotoxicology Lab (UMSNH)** (Mar 2017 – Jan 2022)  
+  Experimental design, biostatistics, reporting, conference presentations.
+
+---
+
+## 🎓 Education
+- **M.Sc. Data Science & Information — INFOTEC** (2024 – Present)
+- **B.Sc. Biological Sciences — UMSNH** (2016 – 2021)
+
+---
+
+## 📫 Contact
+- **Portfolio:** https://alfredohg.com  
+- **LinkedIn:** https://www.linkedin.com/in/alfredo-hinojosa-gonz%C3%A1lez  
+- **Email:** alfredo@alfredohg.com  
+
+---
+
+## 📊 GitHub Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alfre619&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfre619&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alfre619&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Alfre619&theme=radical&no-frame=true&row=1&column=7)
